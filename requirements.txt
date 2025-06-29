@@ -1,0 +1,6 @@
+google-api-python-client>=2.0.0    # googleapiclient.discovery, MediaFileUpload :contentReference[oaicite:0]{index=0}
+google-auth-oauthlib>=1.0.0       # InstalledAppFlow, Request :contentReference[oaicite:1]{index=1}
+google-cloud-storage>=2.0.0        # storage.Client :contentReference[oaicite:2]{index=2}
+openai>=0.27.0                     # openai API bindings :contentReference[oaicite:3]{index=3}
+schedule>=1.1.0                    # schedule.every, run_pending :contentReference[oaicite:4]{index=4}
+python-dotenv>=1.0.0               # load_dotenv for .env support :contentReference[oaicite:5]{index=5}
